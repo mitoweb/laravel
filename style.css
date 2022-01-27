@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/*
+Theme Name: Miroku01
+Theme URI: https://github.com/wordpress/twentytwentytwo/
+Author: 369code
+Author URI: https://369code.tokyo
+Description: 誰でも簡単に独自テーマを始められます
+Requires at least: 5.9
+Tested up to: 5.9
+Requires PHP: 7.4
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: miroku01
+Tags: blog
+
+Miroku01 WordPress Theme, (C) 2021
+Miroku01 is distributed under the terms of the GNU GPL.
+*/
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+/*# sourceMappingURL=data:application/json,%7B%22version%22%3A3%2C%22sourceRoot%22%3A%22http%3A%2F%2Flocalhost%2Fwp_369_blog%2F%22%2C%22sources%22%3A%5B%22D%3A%2Fxampp%2Fhtdocs%2Fwp_369_blog%2Fwp-content%2Fthemes%2Fmiroku01%2Fscss%2Fstyle.scss%22%5D%2C%22names%22%3A%5B%5D%2C%22mappings%22%3A%22%3BAAAA%3BAAAA%3BAAAA%3BAAAA%3BAAAA%3BAAAA%3BAAAA%3BAAAA%3BAAAA%3BAAAA%3BAAAA%3BAAAA%3BAAAA%3BAAAA%3B%3BAAAA%3BAAAA%3BAAAA%3BAAmBA%3BAAAA%3BAAAA%22%7D */
